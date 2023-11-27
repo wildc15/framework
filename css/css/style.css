@@ -1,0 +1,47 @@
+body{
+    background-color: #293233;
+}
+.navbar{
+     background-color:#37595C;
+     
+}
+.container a{
+    color: #00E0F4
+}
+.container h1{
+    margin-top: -2rem;
+    color: #00E0F4
+}
+main{
+    color: #00E0F4;
+}
+.container .text-center {
+    color:#00E0F4;
+}
+.container .table{
+    background-color: #00E0F4;
+}
+.table th {
+    color: #00E0F4;
+    background-color: #37595C ;
+}
+.table td{
+    color: #00E0F4;
+    background-color: #376D5C;
+}
+.col-md-9{
+    color: #4AA3C7;
+}
+.mb-1{
+    color: #00E0F4;
+}
+.carousel{
+    padding-top: 2rem;
+}
+.container h1{
+    padding-top: 1.5rem;
+}
+.project_realizados{
+    color:#00E0F4;
+    text-align: center;
+}
